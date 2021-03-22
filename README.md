@@ -1,6 +1,25 @@
+# Tic-Tac-Toe
+
+Implementation of the tic-tac-toe tutorial
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Installation
+The local machine used for this project is **Manjaro**
+
+### `pacman -S npm`
+installs the npm package.
+
+### `npm i -g npx`
+installs npx
+
+## Create Project
+
+### `npx create-react-app tic-tac-toe`
+
+---
 
 ## Available Scripts
 
